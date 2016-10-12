@@ -1,0 +1,13 @@
+{
+  "groups": [{
+    "name": "malaysia",
+    "type": "com.payment.config.MolPayMalaysiaPaymentChannel",
+    "sourceType": "com.payment.config.MolPayMalaysiaPaymentChannel"
+  }],
+  "properties": [{
+    "name": "malaysia.payment-channels",
+    "type": "java.util.List<com.payment.model.MolPayPaymentChannel>",
+    "sourceType": "com.payment.config.MolPayMalaysiaPaymentChannel"
+  }],
+  "hints": []
+}

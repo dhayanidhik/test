@@ -1,0 +1,15 @@
+com\payment\model\BaseResponse.class
+com\payment\config\PaymentChannel.class
+com\payment\model\MolPayRequest.class
+com\payment\handler\MolPayHandler.class
+com\payment\util\MolPayFormGenerator.class
+com\payment\config\PaymentChannelFactory.class
+com\payment\util\MolPayUtil.class
+com\payment\model\MolPayPaymentChannel.class
+com\payment\model\MolPayResponse.class
+com\payment\config\MolPayProperties.class
+com\payment\config\MolPayMalaysiaPaymentChannel.class
+com\payment\PaymentGatewayWSApp.class
+META-INF\spring-configuration-metadata.json
+com\payment\model\PaymentGatewayResponse.class
+com\payment\controller\MolPayController.class

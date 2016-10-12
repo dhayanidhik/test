@@ -1,0 +1,26 @@
+malaysia:
+    paymentChannels:
+      - channelName: Visa / MasterCard
+        fileName: index.php
+        channel: credit
+
+      - channelName: Maybank2u
+        fileName: maybank2u.php
+        channel: maybank2u
+
+      - channelName: CIMB Clicks
+        fileName: cimb.php
+        channel: cimb
+
+      - channelName: RHB Now
+        fileName: rhb.php
+        channel: rhb
+
+      - channelName: Am Online
+        fileName: amb.php
+        channel: amb
+
+      - channelName: Hong Leong Connect
+        fileName: hlb.php
+        channel: hlb
+       
